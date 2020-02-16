@@ -97,7 +97,7 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img class="d-block w-100 " src="DSC_0811.jpg"  alt="First slide" width="400"  height="700">
+        <img class="d-block w-100" src="DSC_0811.jpg"  alt="First slide" width="400"  height="700">
           </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="IMG_0030.jpg" alt="Second slide" width="400"  height="700">
